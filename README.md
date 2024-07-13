@@ -31,6 +31,9 @@ Address customer service inquiries and provide assistance with travel-related is
 ### 9. Short Quiz
 Provide informative facts about the destination location in the form of a multiple-choice quiz. Prayāṇa AI engages users with interesting trivia to make the travel planning journey more enjoyable.
 
+## Note:
+The model requires a lot of tuning as this project was intended to be a tutorial repo for my learning.
+
 ## Installation
 
 1. Clone the repository:
@@ -61,7 +64,7 @@ Provide informative facts about the destination location in the form of a multip
 
 Once the application is running, you can interact with Prayāṇa AI through the web interface. Enter your travel-related queries and receive responses from the chatbot.
 
-The model requires a lot of tuning as this project was intended to be a tutorial repo for my learning.
+
 
 ## Reference
 
